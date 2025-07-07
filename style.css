@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+h1{
+ font-size: 50px;
+}
+.name{
+    color: orange;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin: 5%;
+}
+.half img{
+    width: 80%;
+    position: relative;
+    left: 150px;
+    bottom: 30px;
+}
+.bg{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.button{font-weight: ;
+    position: relative;
+    left: 97px;
+    bottom: 350px;
+    text-decoration: none;
+    background-image: linear-gradient(90deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+}
